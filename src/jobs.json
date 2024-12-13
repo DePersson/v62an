@@ -83,6 +83,20 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "82a2",
+      "title": "Dennis hirar",
+      "type": "Full-Time",
+      "location": "Hemma hos",
+      "description": "Kom jobba fr mig",
+      "salary": "Under $50K",
+      "company": {
+        "name": "DP AB",
+        "description": "My world",
+        "contactEmail": "depersson_81@telia.com",
+        "contactPhone": "555-5555"
+      }
     }
   ]
 }
