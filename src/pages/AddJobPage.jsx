@@ -35,7 +35,7 @@ const AddJobPage = ( { addJobSubmit }) => {
         addJobSubmit(newJob);
         toast.success('Job added successfully')
         return navigate('/jobs');
-    }
+    };
 
     return (
         <section className="bg-indigo-50">

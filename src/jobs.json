@@ -83,6 +83,20 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "ac38",
+      "title": "Come into me",
+      "type": "Full-Time",
+      "location": "My place",
+      "description": "You know",
+      "salary": "Under $50K",
+      "company": {
+        "name": "DP Media AB",
+        "description": "Production company",
+        "contactEmail": "myMail@DP.com",
+        "contactPhone": "555-6969"
+      }
     }
   ]
 }
